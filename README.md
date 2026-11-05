@@ -10,3 +10,5 @@ Materiały szkoleniowe dla kursanta.
 | `Krioterapia_Hairtox_skrypt.pdf` | Krótki skrypt szkoleniowy |
 
 Wszystkie pliki naraz: zakładka **Releases** → `Kurs_Krioterapia_Hairtox.zip`.
+
+| [HAIRTOXX_Podrecznik_Kursanta.pdf](HAIRTOXX_Podrecznik_Kursanta.pdf) | Podręcznik kursanta – Krioterapia włosów (14 stron, wersja premium) |
